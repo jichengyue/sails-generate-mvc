@@ -17,6 +17,7 @@ _.defaults = require('merge-defaults');
  *
  * @description Generates a mvc
  * @help See http://links.sailsjs.org/docs/generators
+ * jichengyue modify
  */
 
 module.exports = {
