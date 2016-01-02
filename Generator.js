@@ -148,7 +148,7 @@ module.exports = {
   	'./assets/js/mvc-scripts.js': { template: {templatePath: './assets/js/scripts.template.js', force: true}  },
 
     //config files
-    './config/connections.js': { template: {templatePath: './config/connections.template.js', force: true}  },
+    //'./config/connections.js': { template: {templatePath: './config/connections.template.js', force: true}  },
 
     //testing files
     './test/mocha.opts': { template: {templatePath: './test/mocha.opts', force: true}  },    
